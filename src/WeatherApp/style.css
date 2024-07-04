@@ -1,0 +1,26 @@
+
+/*------------------------Weather App CSS----------------------*/
+
+* {
+  margin: 0;
+  padding: 0;
+}
+body{
+  background-color: skyblue;
+  padding: 5rem 0 0 0;
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  align-items: center;
+}
+
+.appTitle{
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+/*------------------------InfoBox CSS----------------------*/
+
+.city{
+  text-transform: capitalize;
+}
